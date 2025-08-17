@@ -1,0 +1,31 @@
+(gdb) disassemble main
+Dump of assembler code for function main:
+   0x0000000000001169 <+0>:     endbr64 
+   0x000000000000116d <+4>:     push   %rbp
+   0x000000000000116e <+5>:     mov    %rsp,%rbp
+   0x0000000000001171 <+8>:     sub    $0x20,%rsp
+   0x0000000000001175 <+12>:    mov    %edi,-0x14(%rbp)
+   0x0000000000001178 <+15>:    mov    %rsi,-0x20(%rbp)
+   0x000000000000117c <+19>:    lea    0xe85(%rip),%rax        # 0x2008
+   0x0000000000001183 <+26>:    mov    %rax,-0x8(%rbp)
+   0x0000000000001187 <+30>:    lea    0xe7e(%rip),%rax        # 0x200c
+   0x000000000000118e <+37>:    mov    %rax,%rdi
+   0x0000000000001191 <+40>:    call   0x1060 <puts@plt>
+   0x0000000000001196 <+45>:    lea    0xe8d(%rip),%rax        # 0x202a
+   0x000000000000119d <+52>:    mov    %rax,%rdi
+   0x00000000000011a0 <+55>:    call   0x1060 <puts@plt>
+   0x00000000000011a5 <+60>:    lea    0xe94(%rip),%rax        # 0x2040
+   0x00000000000011ac <+67>:    mov    %rax,%rdi
+   0x00000000000011af <+70>:    call   0x1060 <puts@plt>
+   0x00000000000011b4 <+75>:    mov    -0x8(%rbp),%rax
+   0x00000000000011b8 <+79>:    mov    %rax,%rsi
+   0x00000000000011bb <+82>:    lea    0xea6(%rip),%rax        # 0x2068
+--Type <RET> for more, q to quit, c to continue without paging--disassemble _start
+   0x00000000000011c2 <+89>:    mov    %rax,%rdi
+   0x00000000000011c5 <+92>:    mov    $0x0,%eax
+   0x00000000000011ca <+97>:    call   0x1070 <printf@plt>
+   0x00000000000011cf <+102>:   mov    $0x0,%eax
+   0x00000000000011d4 <+107>:   leave  
+   0x00000000000011d5 <+108>:   ret    
+End of assembler dump.
+(gdb) 

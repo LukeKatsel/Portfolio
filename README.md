@@ -22,16 +22,21 @@ Welcome to my GitHub portfolio - a central hub for my projects in:
 ## 💻 Coding Projects
 
 **Python**
-
+- Python Programming 1
+- Python Programming 2
 
 **C**
-
+- C Programming 1
+- C Programming 2
+- C Programming 3
+   - USLOSS / THREADS
 
 **Assembly**
-
+- x86 Assembly programming 1
+- x86 Assembly programming 2
 
 **MATLAB**
-
+- MATLAB Programming 1 & 2
 
 
 ## 📚 Education 

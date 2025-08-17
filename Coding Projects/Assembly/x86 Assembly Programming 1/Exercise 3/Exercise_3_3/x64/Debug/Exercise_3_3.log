@@ -1,0 +1,8 @@
+﻿  PrintRecord.asm
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm(17): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm(24): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm(30): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm(36): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm(42): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm(50): error : instruction not supported in 64-bit mode
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\nasm.targets(68,5): error MSB3721: The command ""C:\Program Files\NASM\"nasm.exe -Xvc -f win64 -o "x64\Debug\PrintRecord.obj"  "C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_3\PrintRecord.asm"" exited with code 1.

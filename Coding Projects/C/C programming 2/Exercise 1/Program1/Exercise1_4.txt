@@ -1,0 +1,5 @@
+---- CSCV 352 Fall 2021 ----
+
+Hello Students, 
+Welcome to the world of C programming!
+We like to program in C because it is fun.

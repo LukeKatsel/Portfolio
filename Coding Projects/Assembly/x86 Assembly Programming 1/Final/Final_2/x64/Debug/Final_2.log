@@ -1,0 +1,7 @@
+﻿  Final_Part_2.asm
+C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\Final_2\Final_Part_2.asm(28): error : symbol `_scanf' not defined
+C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\Final_2\Final_Part_2.asm(39): error : symbol `_scanf' not defined
+C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\Final_2\Final_Part_2.asm(50): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\Final_2\Final_Part_2.asm(51): error : instruction not supported in 64-bit mode
+C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\Final_2\Final_Part_2.asm(55): error : symbol `end' not defined
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\nasm.targets(68,5): error MSB3721: The command ""C:\Program Files\NASM\"nasm.exe -Xvc -f win64 -o "x64\Debug\Final_Part_2.obj"  "C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\Final_2\Final_Part_2.asm"" exited with code 1.

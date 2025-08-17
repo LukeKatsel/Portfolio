@@ -1,0 +1,4 @@
+﻿  Scheduler.c
+C:\Users\katse\MyDocuments\Classes\CSCV 452\Threads\ThreadsDev\Scheduler\Scheduler.c(203,22): warning C4087: 'getSlot': declared with 'void' parameter list
+C:\Users\katse\MyDocuments\Classes\CSCV 452\Threads\ThreadsDev\Scheduler\Scheduler.c(1095,29): warning C4027: function declared without formal parameter list
+  Scheduler.vcxproj -> C:\Users\katse\MyDocuments\Classes\CSCV 452\Threads\ThreadsDev\Lib\Scheduler.lib

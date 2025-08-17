@@ -1,0 +1,7 @@
+﻿  mystrlen.asm
+  Exercise_3_1.c
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_1\Exercise_3_1.c(10,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_1\Exercise_3_1.c(10,12): message : consider using '%zd' in the format string
+Exercise_3_1.obj : error LNK2019: unresolved external symbol mystrlen referenced in function main
+mystrlen.obj : error LNK2001: unresolved external symbol _printf
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\x64\Debug\Exercise_3_1.exe : fatal error LNK1120: 2 unresolved externals

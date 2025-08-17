@@ -1,0 +1,61 @@
+#define DEBUG 0
+
+typedef struct proc_struct proc_struct;
+
+typedef struct proc_struct * proc_ptr;
+
+#define STATUS_EMPTY          0
+#define STATUS_RUNNING        1
+#define STATUS_READY          2
+#define STATUS_QUIT           3
+#define STATUS_JOIN_BLOCKED   4
+#define STATUS_ZAP_BLOCKED    5
+#define STATUS_LAST           6
+
+typedef struct List {
+   proc_ptr *pHead;
+   proc_ptr *pTail;
+   int count;
+   int offset; // offset of node (ListNode) within the structure
+} List;
+
+struct proc_struct {
+   proc_ptr       parent_proc_ptr;
+   List           children;         // lIST is linked list - keep track of processes
+   List           quittingChildren;
+   List           zappers;
+
+   char           name[MAXNAME];     /* process's name */
+   char           start_arg[MAXARG]; /* args passed to process */
+   context        state;             /* current context for process */
+   short          pid;               /* process id */
+   int            priority;
+   int (* start_func) (char *);   /* function where process begins -- launch */
+   char          *stack;
+   unsigned int   stacksize;
+   int            status;         /* READY, BLOCKED, QUIT, etc. */
+   int            cputime;
+   int            result;        // result == 
+   /* other fields as needed... */
+};
+
+struct psr_bits {
+   unsigned int cur_mode:1;
+   unsigned int cur_int_enable:1;
+   unsigned int prev_mode:1;
+   unsigned int prev_int_enable:1;
+   unsigned int unused:28;
+};
+
+union psr_values {
+   struct psr_bits bits;
+   unsigned int integer_part;
+};
+
+/* Some useful constants.  Add more as needed... */
+#define NO_CURRENT_PROCESS NULL
+#define MINPRIORITY 5
+#define MAXPRIORITY 1
+#define SENTINELPID 1
+#define SENTINELPRIORITY LOWEST_PRIORITY
+

@@ -1,0 +1,5 @@
+﻿  FindLongestString.asm
+  Exercise_3_2.c
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\Exercise_3_2\Exercise_3_2.c(31,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+Exercise_3_2.obj : error LNK2019: unresolved external symbol FindLongestString referenced in function main
+C:\Users\katse\Documents\Classes\CYBV 311\Exercise3_Files\Exercise3_Files\x64\Debug\Exercise_3_2.exe : fatal error LNK1120: 1 unresolved externals

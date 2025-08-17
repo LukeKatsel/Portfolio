@@ -1,0 +1,16 @@
+Write a program that accepts the name of a file as the one and only command line parameter.
+The program should read the data from the file, push each character from the file onto a stack
+(one by one), pop the characters from the stack, and display them on the console. The
+characters should appear on the screen in reverse order from their order in the source text file.
+The program must implement a push() function that pushes a character onto the stack and a
+pop() function that removes a character from the stack(). Note that you may limit your stack
+size to something like 100 characters. This allows you to use an array to manage the stack if
+you choose to. When complete, turn in your program using the filename Exercise7_3.c.
+Write a program that accepts the name of a file as the one and only command line parameter.
+The program should read the data from the file, push each character from the file onto a stack
+(one by one), pop the characters from the stack, and display them on the console. The
+characters should appear on the screen in reverse order from their order in the source text file.
+The program must implement a push() function that pushes a character onto the stack and a
+pop() function that removes a character from the stack(). Note that you may limit your stack
+size to something like 100 characters. This allows you to use an array to manage the stack if
+you choose to. When complete, turn in your program using the filename Exercise7_3.c.

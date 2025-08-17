@@ -1,0 +1,11 @@
+{
+    "lldb.library": "/Library/Developer/CommandLineTools/Library/PrivateFrameworks/LLDB.framework/Versions/A/LLDB",
+    "files.associations": {
+        "phase1.h": "c",
+        "phase2.h": "c",
+        "message.h": "c",
+        "usloss.h": "c",
+        "staticin.h": "c",
+        "libuser.h": "c"
+    }
+}

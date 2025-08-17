@@ -1,0 +1,4 @@
+﻿  Final_Part_3.asm
+  Final_3_Main.c
+Final_3_Main.obj : error LNK2019: unresolved external symbol SwapCase referenced in function main
+C:\Users\katse\Documents\Classes\CYBV 311\Final\FinalExerciseProject\FinalExerciseProject\x64\Debug\Final_3.exe : fatal error LNK1120: 1 unresolved externals
