@@ -21,13 +21,16 @@ Welcome to my GitHub portfolio - a central hub for my projects in:
 
 ## 💻 Coding Projects
 
- ### Python
+**Python**
 
 
- ### C
+**C**
 
 
- ### Assembly 
+**Assembly**
+
+
+**MATLAB**
 
 
 

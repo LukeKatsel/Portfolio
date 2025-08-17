@@ -1,0 +1,18 @@
+10744-INFO-2023-08-15 12:27:03,684 Script Start
+
+10744-INFO-2023-08-15 12:27:10,449 Investigator:  Luke
+10744-INFO-2023-08-15 12:27:10,449 Organization:  CYBV 312
+10744-INFO-2023-08-15 12:27:10,449 ===============================
+
+10744-INFO-2023-08-15 12:27:10,449 ***** System Information *****
+10744-INFO-2023-08-15 12:27:10,449    platform:  Windows
+10744-INFO-2023-08-15 12:27:10,449    platform-release:  10
+10744-INFO-2023-08-15 12:27:10,449    platform-version:  10.0.22621
+10744-INFO-2023-08-15 12:27:10,449    architecture:  AMD64
+10744-INFO-2023-08-15 12:27:10,449    hostname:  SurfacePro9
+10744-INFO-2023-08-15 12:27:10,449    ip-address:  10.132.239.93
+10744-INFO-2023-08-15 12:27:10,449    mac-address:  14:75:5b:83:bd:c7
+10744-INFO-2023-08-15 12:27:10,449    processor:  Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+10744-INFO-2023-08-15 12:27:10,449    ram:  16 GB
+10744-INFO-2023-08-15 12:27:10,449 ===============================
+

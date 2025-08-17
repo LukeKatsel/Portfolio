@@ -1,0 +1,3294 @@
+Better
+Khalid
+2019 8
+Shape Of You
+Ed Sheeran
+2017 1
+Without You
+The Kid LAROI
+2021 8
+Harlem Shake
+Baauer
+2013 1
+Girl Crush
+Little Big Town
+2015 18
+Leave The Door Open
+Silk Sonic (Bruno Mars & Anderson .Paak)
+2021 1
+Thinking Out Loud
+Ed Sheeran
+2015 2
+Wildest Dreams
+Taylor Swift
+2015 5
+Sing
+Ed Sheeran
+2014 13
+Moves Like Jagger
+Maroon 5 & Christina Aguilera
+2012 9
+Teenage Dream
+Katy Perry
+2010 1
+The Fight Song
+Rachel Platten
+2015 6
+Beautiful
+Mariah Carey & Miguel
+2013 15
+Trampoline
+SHAED
+2019 13
+Starboy
+The Weeknd & Daft Punk
+2016 2
+Ain't It Fun
+Paramore
+2014 10
+Highest In The Room
+Travis Scott
+2020 8
+Say Something
+A Great Big World & Christina Aguilera
+2014 4
+Levitating
+Dua Lipa & DaBaby
+2021 2
+Wake Me Up
+Avicii
+2013 4
+Beneath Your Beautiful
+Labrinth & Emeli Sande
+2013 34
+I'll Wait
+Mumford & Sons
+2013 12
+Just The Way You Are (Amazing)
+Bruno Mars
+2011 6
+Cooler Than Me
+Mike Posner
+2010 6
+Rake It Up
+Yo Gotti & Nicki Minaj
+2017 8
+The Monster
+Rihanna & Eminem
+2013 1
+Roxanne
+Arizona Zervas
+2020 4
+Break Free
+Ariana Grande & Zedd
+2014 4
+PowerTrip
+J Cole & Miguel
+2013 19
+I Cry
+Flo Rida
+2012 6
+Bang!
+AJR
+2020 24
+Seven Years
+Lukas Graham
+2016 2
+Demons
+Imagine Dragons
+2013 6
+Low Life
+Future & The Weeknd
+2016 18
+If We Ever Meet Again
+Timbaland & Katy Perry
+2010 37
+Thank U, Next
+Ariana Grande
+2019 1
+Cheers (Drink To That)
+Rihanna
+2011 7
+Riptide
+Vance Joy
+2015 30
+We R Who We R
+Kesha
+2011 3
+No More Parties
+Coi Leray & Lil Durk
+2021 26
+Rumour Has It
+Adele
+2012 16
+Bang Bang
+Jessie J, Nicki Minaj & Ariana Grande
+2014 3
+Dynamite
+BTS
+2020 1
+G.D.F.R
+Flo Rida & Sage The Gemini
+2015 8
+The Hills
+The Weeknd
+2015 1
+Time Of Our Lives
+Pitbull & Ne0Yo
+2015 9
+Next To Me
+Emeli Sande
+2013 25
+7 Rings
+Ariana Grande
+2019 1
+Hot Girl Bummer
+BLACKBEAR
+2020 11
+Wanted
+Hunter Hayes
+2012 16
+Toosie Slide
+Drake
+2020 1
+Go Crazy
+Chris Brown & Young Thug
+2021 3
+Hello
+Adele
+2016 1
+Ransom
+Lil Tecca
+2019 4
+Break Up With Your Girlfriend, I'm
+Ariana Grande
+2019 2
+Cold Water
+Major Lazer, Justin Bieber & MO
+2016 2
+Wavin' Flag
+K'naan
+2010 82
+Billionaire
+Travie McCoy & Bruno Mars
+2010 4
+Heart Attack
+Demi Lovato
+2013 10
+Lean On
+Major Lazer & DJ Snake
+2015 4
+Let Me Love You
+DJ Snake & Justin Bieber
+2017 7
+Dakiti
+Bad Bunny & Jhay Cortez
+2021 16
+Same Love
+Macklemore & Ryan Lewis
+2013 11
+The Business
+Tiesto
+2021 69
+Want To Want Me
+Jason Derulo
+2015 5
+Thotiana
+Blueface
+2019 8
+Hot Boy
+Bobby Shmurda
+2014 6
+Can't Stop The Feeling
+Justin Timberlake
+2016 1
+Don't!
+Bryson Tiller
+2016 13
+Party Girl
+StaySolidRocky
+2020 21
+Say So
+Doja Cat
+2020 9
+Airplanes
+BoB & Hayley Williams
+2010 2
+Even Though I'm Leaving
+Luke Combs
+2019 11
+Shake It Off
+Taylor Swift
+2015 5
+Whistle
+Flo Rida
+2012 1
+Murder On My Mind
+YNW Melly
+2019 14
+Ghost Town
+Adam Lambert
+2015 64
+Stressed Out
+Twenty One Pilots
+2016 2
+Someone You Loved
+Lewis Capaldi
+2020 4
+Give Your Heart A Break
+Demi Lovato
+2012 16
+No Brainer
+DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne
+2018 5
+Be Alright
+Dean Lewis
+2019 23
+Cool Kids
+Echosmith
+2014 13
+Wow.
+Post Malone
+2019 2
+Renegades
+X Ambassadors
+2015 17
+Dance Monkey
+Tones & I
+2020 4
+Earned It (Fifty Shades Of Grey)
+The Weeknd
+2015 3
+Ex's & Oh's
+Elle King
+2015 10
+Replay
+Iyaz
+2010 2
+Good Time
+Owl City & Carly Rae Jepsen
+2012 8
+Take It Off
+Kesha
+2010 8
+Intentions
+Justin Bieber & Quavo
+2020 5
+Waka Waka (This Time For Africa)
+Shakira & Freshly Ground
+2010 38
+The Time (Dirty Bit)
+The Black Eyed Peas
+2010 4
+Feel It Still
+Portugal, The Man
+2018 12
+Bartier Cardi
+Cardi B & 21 Savage
+2018 14
+X
+Nicky Jam & J Balvin
+2018 41
+Wiggle
+Jason Derulo & Snoop Dogg
+2014 5
+The London
+Young Thug, J Cole & Travis Scott
+2019 12
+Dura
+Daddy Yankee
+2018 43
+Hey, Soul Sister
+Train
+2010 3
+679
+Fetty Wap & Remy Boyz
+2015 4
+Worth It
+Fifth Harmony & Kid Ink
+2015 12
+Memories
+David Guetta & Kid Cudi
+2010 46
+Montero (Call Me By Your Name)
+Lil Nas X
+2021 1
+Some Nights
+fun.
+2013 9
+Shake It Off
+Taylor Swift
+2014 1
+Find Your Love
+Drake
+2010 5
+RITMO (Bad Boys For Life)
+The Black Eyed Peas & J Balvin
+2020 26
+2U
+David Guetta & Justin Bieber
+2017 16
+Chasing The Sun
+The Wanted
+2012 50
+Boyfriend
+Justin Bieber
+2012 2
+Till The World Ends
+Britney Spears, Nicki Minaj & Kesha
+2011 3
+In My Head
+Jason Derulo
+2010 5
+Feel So Close
+Calvin Harris
+2012 12
+Want U Back
+Cher Lloyd & Astro
+2012 12
+Beautiful Mistakes
+Maroon 5 & Megan Thee Stallion
+2021 13
+Heartless
+The Weeknd
+2020 4
+Mr Saxobeat
+Alexandra Stan
+2011 21
+Track Star
+Mooski
+2021 31
+The Monster
+Rihanna & Eminem
+2014 1
+Stay
+Zedd & Alessia Cara
+2017 7
+F**k You/Forget You
+CeeLo Green
+2010 9
+10,000 Hours
+Dan & Shay & Justin Bieber
+2020 5
+BOP
+DaBaby
+2020 12
+Paparazzi
+Lady GaGa
+2010 11
+Whatcha Say
+Jason Derulo
+2010 6
+Ex's & Oh's
+Elle King
+2016 12
+How Do You Sleep?
+Sam Smith
+2019 24
+Friends
+Marshmello & Anne0Marie
+2018 11
+California Gurls
+Katy Perry & Snoop Dogg
+2010 1
+Cruise
+Florida Georgia Line
+2013 4
+Beautiful Crazy
+Luke Combs
+2019 21
+Duele el corazon
+Enrique Iglesias & Wisin
+2016 82
+Dynamite
+Taio Cruz
+2010 2
+Streets
+Doja Cat
+2021 16
+Best Friend
+Saweetie & Doja Cat
+2021 14
+I Don't Mind
+Usher
+2015 11
+Don't Let Me Down
+The Chainsmokers & Daya
+2016 3
+Better Now
+Post Malone
+2019 10
+Positions
+Ariana Grande
+2020 1
+Die Young
+Kesha
+2013 4
+Turn Up The Music
+Chris Brown
+2012 10
+No Lie
+2 Chainz
+2012 24
+Can't Feel My Face
+The Weeknd
+2016 15
+Can't Stop The Feeling
+Justin Timberlake
+2017 13
+This Is How We Roll
+Florida Georgia Line
+2014 15
+Adore You
+Harry Styles
+2020 6
+Sicko Mode
+Travis Scott
+2019 3
+Made For You
+Jake Owen
+2021 32
+Paradise
+Coldplay
+2011 15
+Love Me Harder
+Ariana Grande & The Weeknd
+2015 7
+Born This Way
+Lady GaGa
+2011 1
+Be Like That
+Kane Brown & Swae Lee & Khalid
+2020 19
+Ayo
+Chris Brown & Tyga
+2015 21
+This Is Me
+Keala Settle & The Greatest Showman Ensemble
+2018 58
+Bad Guy
+Billie Eilish
+2020 14
+Stir Fry
+Migos
+2018 8
+The Motto
+Drake & Lil' Wayne
+2012 14
+Into You
+Ariana Grande
+2016 13
+Monster
+Shawn Mendes & Justin Bieber
+2021 36
+Redbone
+Childish Gambino
+2017 12
+Shallow
+Lady Gaga & Bradley Cooper
+2018 5
+Dancing With A Stranger
+Sam Smith & Normani
+2019 7
+F**k You/Forget You
+CeeLo Green
+2011 2
+Classic
+MKTO
+2014 14
+One More Night
+Maroon 5
+2013 5
+Heat Waves
+Glass Animals
+2021 19
+What's Next
+Drake
+2021 1
+Playing Games
+Summer Walker
+2019 16
+Fireball
+Pitbull & John Ryan
+2014 23
+Peaches
+Justin Bieber & Daniel Caesar & Giveon
+2021 1
+Somebody
+Natalie La Rose & Jeremih
+2015 10
+How Low
+Ludacris
+2010 6
+Dangerous Woman
+Ariana Grande
+2016 8
+Only Human
+Jonas Brothers
+2019 18
+Sucker For Pain
+Lil' Wayne, Wiz Khalifa & Imagine Dragons
+2016 15
+Diamonds
+Rihanna
+2012 1
+Nobody But You
+Blake Shelton Duet & Gwen Stefani
+2020 18
+Burn
+Ellie Goulding
+2013 13
+Just Like Fire
+Pink
+2016 10
+Controlla
+Drake
+2016 16
+Loyal
+Chris Brown & Lil' Wayne
+2014 9
+Mr Know It All
+Kelly Clarkson
+2011 10
+Let You Down
+NF
+2018 12
+Locked Away
+R City & Adam Levine
+2015 6
+You Broke Me First
+Tate McRae
+2020 50
+Gentleman
+Psy
+2013 5
+Blinding Lights
+The Weeknd
+2021 3
+Deja Vu
+Olivia Rodrigo
+2021 3
+Love Never Felt So Good
+Michael Jackson & Justin Timberlake
+2014 9
+Nasty Freestyle
+T0Wayne
+2015 9
+Malibu
+Miley Cyrus
+2017 10
+Memories
+Maroon 5
+2020 2
+Summer
+Calvin Harris
+2014 7
+Look Alive
+BlocBoy JB & Drake
+2018 5
+Scream
+Usher
+2012 9
+Say Aah
+Trey Songz & Fabolous
+2010 9
+Highest In The Room
+Travis Scott
+2019 1
+Love On The Brain
+Rihanna
+2017 5
+Talk
+Khalid
+2019 3
+Starting Over
+Chris Stapleton
+2021 26
+Savage
+Megan Thee Stallion & Beyonce
+2020 1
+Bailando
+Enrique Iglesias
+2014 12
+What Makes You Beautiful
+One Direction
+2012 4
+Save Your Tears
+The Weeknd
+2021 95
+Never Forget You
+Zara Larsson & MNEK
+2016 13
+Say You Won't Let Go
+James Arthur
+2017 11
+Gone, Gone, Gone
+Phil Phillips
+2013 24
+If I Die Young
+The Band Perry
+2011 14
+Panda
+Desiigner
+2016 1
+It's Time
+Imagine Dragons
+2013 15
+Lucid Dreams (Forget Me)
+Juice WRLD
+2019 8
+Good Life
+OneRepublic
+2011 8
+Freaky Friday
+Lil Dicky & Chris Brown
+2018 8
+Send My Love (To Your New Lover)
+Adele
+2016 8
+Breaking Up Was Easy In The 90's
+Sam Hunt
+2021 32
+Bottoms Up
+Brantley Gilbert
+2014 20
+Perfect
+Ed Sheeran
+2018 1
+Pumped Up Kicks
+Foster the People
+2012 19
+Summertime Sadness
+Lana Del Rey & Cedric Gervais
+2013 6
+Body
+Megan Thee Stallion
+2021 16
+Girls Like You
+Maroon 5 & Cardi B
+2019 7
+My songs know what you did in the dark (Light 'em up)
+Fall Out Boy
+2013 13
+Rolling In The Deep
+Adele
+2011 1
+Heart On Ice
+Rod Wave
+2020 25
+Impossible
+Shontelle
+2010 13
+Lady
+Brett Young
+2021 52
+You Need To Calm Down
+Taylor Swift
+2019 2
+Back To You
+Selena Gomez
+2018 18
+The Other Side
+Jason Derulo
+2013 18
+Flex (Ooh Ooh Ooh)
+Rich Homie Quan
+2015 26
+I Really Like You
+Carly Rae Jepsen
+2015 39
+Mine
+Bazzi
+2018 11
+Hot
+Young Thug & Gunna
+2019 11
+Raise Your Glass
+Pink
+2011 4
+Walk Me Home
+Pink
+2019 49
+Magic
+BoB & Rivers Cuomo
+2010 10
+Lucid Dreams (Forget Me)
+Juice WRLD
+2018 2
+I Took A Pill In Ibiza
+Mike Posner
+2016 4
+The Box
+Roddy Ricch
+2020 1
+Sail
+AWOLNATION
+2013 17
+Firework
+Katy Perry
+2010 1
+Animals
+Martin Garrix
+2014 21
+Black & Yellow
+Wiz Khalifa
+2011 1
+Problem
+Ariana Grande & Iggy Azalea
+2014 2
+All Of The Lights
+Kanye West
+2011 18
+Lean On
+Major Lazer & DJ Snake
+2016 17
+24K Magic
+Bruno Mars
+2016 4
+Moonlight
+XXXTentacion
+2018 13
+WAP
+Cardi B & Megan Thee Stallion
+2020 1
+Troublemaker
+Olly Murs & Flo Rida
+2013 25
+Home
+Phil Phillips
+2012 7
+Honey, I'm Good
+Andy Grammer
+2015 9
+Ai se eu te pego!
+Michel Telo
+2012 81
+Issues
+Julia Michaels
+2017 11
+You Broke Me First
+Tate McRae
+2021 17
+I Need Your Love
+Calvin Harris & Ellie Goulding
+2013 16
+What's My Name?
+Rihanna & Drake
+2011 3
+Sucker
+Jonas Brothers
+2019 1
+Best Song Ever
+One Direction
+2013 2
+It Ain't Me
+Kygo & Selena Gomez
+2017 10
+Tonight (I'm F**kin' You)
+Enrique Iglesias & Ludacris
+2011 4
+Pillow talk
+Zayn
+2016 1
+Humble
+Kendrick Lamar
+2017 1
+All The Stars
+Kendrick Lamar & SZA
+2018 7
+Tequila
+Dan & Shay
+2018 21
+Come & Go
+Juice WRLD & Marshmello
+2020 2
+You Say
+Lauren Daigle
+2019 29
+Cups (Pitch Perfect's 'When I'm Gone')
+Anna Kendrick
+2013 6
+On The Floor
+Jennifer Lopez & Pitbull
+2011 3
+Hot Girl Bummer
+BLACKBEAR
+2019 41
+Stupid Love
+Lady GaGa
+2020 5
+I Knew You Were Trouble
+Taylor Swift
+2013 2
+Whiskey Glasses
+Morgan Wallen
+2019 17
+I'll Wait
+Mumford & Sons
+2012 23
+One Dance
+Drake, WizKid & Kyla
+2016 1
+Budapest
+George Ezra
+2015 32
+The One That Got Away
+Katy Perry
+2012 3
+Positions
+Ariana Grande
+2021 2
+We No Speak Americano
+Yolanda Be Cool & DCup
+2010 29
+When I Was Your Man
+Bruno Mars
+2013 1
+Beat Box
+SpotemGottem & Pooh Shiesty Or DaBaby
+2021 12
+Follow You
+Imagine Dragons
+2021 68
+Happy
+Pharrell Williams
+2014 1
+Kings & Queens
+Ava Max
+2021 15
+Dear Future Husband
+Meghan Trainor
+2015 14
+Play Hard
+David Guetta, Ne0Yo & Akon
+2013 64
+Me Too
+Meghan Trainor
+2016 13
+Shower
+Becky G
+2014 16
+Quicksand
+Morray
+2021 65
+Deuces
+Chris Brown
+2010 14
+What A Man Gotta Do
+Jonas Brothers
+2020 16
+Like I'm Gonna Lose You
+Meghan Trainor & John Legend
+2015 8
+Lalala
+Y2K & bbno$
+2019 55
+Drive By
+Train
+2012 10
+Your Love Is My Drug
+Kesha
+2010 4
+Nothing Breaks Like A Heart
+Mark Ronson & Miley Cyrus
+2019 43
+Midnight Sky
+Miley Cyrus
+2020 14
+Lemonade
+Internet Money & Gunna & Don Toliver & NAV
+2021 12
+Just A Dream
+Nelly
+2010 3
+Tonight, Tonight
+Hot Chelle Rae
+2011 7
+Need You Now
+Lady Antebellum
+2010 2
+In The Name Of Love
+Martin Garrix & Bebe Rexha
+2016 24
+Echame la culpa
+Luis Fonsi & Demi Lovato
+2018 57
+Bad Guy
+Billie Eilish
+2019 1
+Trap Queen
+Fetty Wap
+2015 2
+Bad And Boujee
+Migos & Lil Uzi Vert
+2017 1
+We Paid
+Lil Baby & 42 Dugg
+2020 10
+Shallow
+Lady Gaga & Bradley Cooper
+2019 1
+Good Feeling
+Flo Rida
+2012 3
+Damage
+H.E.R.
+2021 44
+Rolex
+Ayo & Teo
+2017 20
+Some Nights
+fun.
+2012 3
+Timber
+Pitbull & Kesha
+2013 2
+Bulletproof!
+La Roux
+2010 8
+Rocketeer
+Far East Movement & Ryan Tedder
+2011 7
+Drivers License
+Olivia Rodrigo
+2021 1
+Telephone
+Lady GaGa & Beyonce
+2010 3
+Sign Of The Times
+Harry Styles
+2017 4
+Naturally
+Selena Gomez & The Scene
+2010 29
+Mine
+Taylor Swift
+2010 3
+Holy
+Justin Bieber & Chance The Rapper
+2021 4
+Sugar
+Maroon 5
+2015 2
+Light It Up
+Major Lazer, Nyla & Fuse ODG
+2016 73
+Like A G6
+Far East Movement, Cataracs & Dev
+2011 14
+Anaconda
+Nicki Minaj
+2014 2
+Just A Dream
+Nelly
+2011 10
+Nice For What
+Drake
+2018 1
+Walk It Talk It
+Migos & Drake
+2018 10
+One Last Time (Attends0moi)
+Ariana Grande
+2015 13
+The Show Goes On
+Lupe Fiasco
+2011 9
+Gangnam Style
+Psy
+2013 6
+Swalla
+Jason Derulo, Nicki Minaj & Ty Dolla $ign
+2017 29
+Feel It Still
+Portugal, The Man
+2017 4
+Yes Indeed
+Lil Baby & Drake
+2018 6
+Goodbyes
+Post Malone & Young Thug
+2019 3
+Dusk Till Dawn
+Zayn & Sia
+2017 44
+One Of Them Girls
+Lee Brice
+2020 17
+Bounce Back
+Big Sean
+2017 6
+Outside
+Calvin Harris & Ellie Goulding
+2015 29
+Mercy
+Shawn Mendes
+2017 15
+Me & My Broken Heart
+Rixton
+2014 14
+This Is What You Came For
+Rihanna & Calvin Harris
+2016 3
+You & I
+Lady GaGa
+2011 6
+My House
+Flo Rida
+2016 4
+Dark Horse
+Katy Perry
+2014 1
+Slide
+Calvin Harris, Frank Ocean & Migos
+2017 25
+Jumpman
+Future & Drake
+2016 12
+Praying
+Kesha
+2017 22
+Na Na
+Trey Songz
+2014 21
+I Like Me Better
+Lauy
+2018 27
+Got 2 Luv U
+Sean Paul & Alexis Jordan
+2011 84
+All Time Low
+Jon Bellion
+2017 16
+Glad You Came
+The Wanted
+2012 3
+My Ex's Best Friend
+Machine Gun Kelly & BLACKBEAR
+2021 20
+Love Lies
+Khalid & Normani
+2018 9
+Just Can't Get Enough
+The Black Eyed Peas
+2011 3
+Bank Account
+21 Savage
+2017 12
+Lighters
+Bad Meets Evil & Bruno Mars
+2011 4
+Pompeii
+Bastille
+2014 5
+Look At Me Now
+Chris Brown & Lil' Wayne
+2011 6
+Havana
+Camila Cabello & Young Thug
+2017 2
+Rockstar
+Post Malone & 21 Savage
+2018 2
+I'm On One
+DJ Khaled, Drake & Rick Ross
+2011 10
+All About That Bass
+Meghan Trainor
+2014 1
+Someone Like You
+Adele
+2012 7
+Roses
+SAINt JHN
+2020 4
+Watermelon Sugar
+Harry Styles
+2021 42
+What's Your Country Song
+Thomas Rhett
+2021 29
+Willow
+Taylor Swift
+2021 1
+Me, Myself & I
+G0Eazy & Bebe Rexha
+2016 7
+Butter
+BTS
+2021 1
+Despacito
+Luis Fonsi & Daddy Yankee
+2018 25
+Bitch Better Have My Money
+Rihanna
+2015 15
+Radioactive
+Imagine Dragons
+2014 13
+Work From Home
+Fifth Harmony & Ty Dolla sign
+2016 4
+Don't Start Now
+Dua Lipa
+2020 2
+For You (Fifty Shades Freed)
+Liam Payne & Rita Ora
+2018 76
+Love Me
+Lil' Wayne & Drake
+2013 9
+Panini
+Lil Nas X
+2019 5
+Down
+Jay Sean & Lil' Wayne
+2010 7
+Higher Love
+Kygo & Whitney Houston
+2019 63
+Animals
+Martin Garrix
+2013 51
+Riptide
+Vance Joy
+2014 32
+ily
+surf mesa & Emilee
+2020 23
+Eastside
+Benny Blanco, Halsey & Khalid
+2019 9
+Magic
+Coldplay
+2014 14
+Burn
+Ellie Goulding
+2014 13
+Give Me Everything
+Pitbull, Ne0Yo, Afrojack & Nayer
+2011 1
+In My Blood
+Shawn Mendes
+2018 11
+Stay
+Rihanna & Mikky Ekko
+2013 3
+Bodak Yellow (Money Moves)
+Cardi B
+2017 1
+I'm The One
+DJ Khaled, Justin Bieber, Quavo, Chance The Rapper & Lil' Wayne
+2017 1
+Human
+Rag'n'Bone Man
+2017 74
+Take Care
+Rihanna & Drake
+2012 7
+Whatever It Takes
+Imagine Dragons
+2018 12
+For Free
+DJ Khaled & Drake
+2016 13
+Clarity
+Zedd & Foxes
+2013 8
+Get Lucky
+Daft Punk & Pharrell Williams
+2013 2
+Drip Too Hard
+Lil Baby & Gunna
+2018 4
+Club Can't Handle Me
+Flo Rida & David Guetta
+2010 9
+Timber
+Pitbull & Kesha
+2014 1
+Blinding Lights
+The Weeknd
+2020 1
+Like A G6
+Far East Movement, Cataracs & Dev
+2010 1
+As Long As You Love Me
+Justin Bieber & Big Sean
+2012 6
+24K Magic
+Bruno Mars
+2017 4
+The Fox
+Ylvis
+2013 6
+XO TOUR Llif3
+Lil Uzi Vert
+2017 7
+DJ Got Us Fallin' In Love
+Usher & Pitbull
+2011 15
+When We Were Young
+Adele
+2016 14
+Strip That Down
+Liam Payne & Quavo
+2017 10
+You're Mines Still
+Yung Bleu & Drake
+2021 18
+Before You Go
+Lewis Capaldi
+2020 9
+Misery
+Maroon 5
+2010 14
+Firework
+Katy Perry
+2011 1
+Watermelon Sugar
+Harry Styles
+2020 1
+Drunk On You
+Luke Bryan
+2012 16
+Rather Be
+Clean Bandit & Jess Glynne
+2014 10
+Ric Flair Drip
+Offset & Metro Boomin
+2018 13
+Youngblood
+5 Seconds of Summer
+2018 7
+thatPOWER
+will.i.am & Justin Bieber
+2013 17
+Blurred Lines
+Robin Thicke, T.I. & Pharrell Williams
+2013 1
+Black Beatles
+Rae Sremmurd & Gucci Mane
+2016 1
+Mask Off
+Future
+2017 5
+Post To Be
+Omarion & Chris Brown & Jhene Aiko
+2015 13
+How Deep Is Your Love?
+Calvin Harris & Disciples
+2015 27
+Stitches
+Shawn Mendes
+2016 6
+Jackie Chan
+Tiesto, Dzeko, Preme & Post Malone
+2018 52
+Therefore I Am
+Billie Eilish
+2021 12
+Tusa
+Karol G & Nicki Minaj
+2020 42
+All About That Bass
+Meghan Trainor
+2015 5
+Every Teardrop Is A Waterfall
+Coldplay
+2011 14
+Mood
+24kGoldn & iann dior
+2021 1
+Can't Hold Us
+Macklemore & Ryan Lewis
+2013 1
+International Love
+Pitbull & Chris Brown
+2012 13
+Friends
+Justin Bieber & BloodPop
+2017 20
+Lover
+Taylor Swift
+2019 10
+Taki Taki
+DJ Snake, Selena Gomez, Ozuna & Cardi B
+2019 18
+I'm Not The Only One
+Sam Smith
+2014 5
+Don't Wake Me Up
+Chris Brown
+2012 10
+God's Country
+Blake Shelton
+2019 17
+Don't You Worry Child
+Swedish House Mafia & John Martin
+2013 6
+California King Bed
+Rihanna
+2011 37
+Call Out My Name
+The Weeknd
+2018 4
+Maps
+Maroon 5
+2014 6
+Rack City
+Tyga
+2012 7
+Secrets
+OneRepublic
+2010 21
+Him & I
+G0Eazy & Halsey
+2018 14
+Price Tag
+Jessie J & BoB
+2011 23
+Where Are U Now
+Skrillex & Diplo
+2015 8
+See You Again
+Wiz Khalifa & Charlie Puth
+2015 1
+Raise Your Glass
+Pink
+2010 1
+The Woo
+Pop Smoke & 50 Cent & Roddy Ricch
+2020 11
+Written In The Stars
+Tinie Tempah & Eric Turner
+2011 12
+Hey, Brother
+Avicii
+2013 66
+The Way
+Ariana Grande
+2013 9
+Over
+Drake
+2010 14
+Laugh Now Cry Later
+Drake & Lil Durk
+2020 2
+More
+Usher
+2011 15
+Try
+Pink
+2013 9
+El Perdon (Forgiveness)
+Nicky Jam & Enrique Iglesias
+2015 56
+Stolen Dance
+Milky Chance
+2014 41
+Dangerous
+David Guetta & Sam Martin
+2014 56
+Perfect
+Ed Sheeran
+2017 22
+The Lazy Song
+Bruno Mars
+2011 4
+Boo'd Up
+Ella Mai
+2018 5
+Where Them Girls At
+David Guetta, Flo Rida & Nicki Minaj
+2011 14
+Mood
+24kGoldn & iann dior
+2020 1
+Turn Down For What
+DJ Snake & Lil' Jon
+2014 4
+Lights
+Ellie Goulding
+2012 2
+Break Your Heart
+Taio Cruz & Ludacris
+2010 1
+Ho Hey
+The Lumineers
+2012 3
+Safe And Sound
+Capital Cities
+2013 8
+In The Dark
+Dev
+2011 11
+Good For You
+Selena Gomez & ASAP Rocky
+2015 5
+Part Of Me
+Katy Perry
+2012 1
+everything i wanted
+Billie Eilish
+2020 9
+Rapstar
+Polo G
+2021 1
+Please Me
+Bruno Mars & Cardi B
+2019 3
+Wild Thoughts
+DJ Khaled, Rihanna & Bryson Tiller
+2017 2
+Money
+Cardi B
+2019 13
+Baby
+Lil Baby & DaBaby
+2019 21
+OMG
+Usher & will.i.am
+2010 1
+Demons
+Imagine Dragons
+2014 6
+Hotline Bling
+Drake
+2015 2
+Am I Wrong
+Nico & Vinz
+2014 4
+Lush Life
+Zara Larsson
+2016 75
+Take What You Want
+Post Malone & Ozzy Osbourne & Travis Scott
+2019 8
+Uptown Funk
+Mark Ronson & Bruno Mars
+2015 1
+All In My Head
+Fifth Harmony & Fetty Wap
+2016 24
+Gold
+Kiiara
+2016 13
+Slow Hands
+Niall Horan
+2017 11
+Skyfall
+Adele
+2012 8
+Fefe
+6ix9ine, Nicki Minaj & Murda Beatz
+2018 3
+34+35
+Ariana Grande & Doja Cat & Megan Thee Stallion
+2021 2
+Popstar
+DJ Khaled & Drake
+2020 3
+Don't Tell 'Em
+Jeremih & YG
+2014 6
+Pray For Me
+The Weeknd & Kendrick Lamar
+2018 7
+One Kiss
+Calvin Harris & Dua Lipa
+2018 26
+Say You Won't Let Go
+James Arthur
+2016 60
+Higher
+Taio Cruz & Kylie Minogue & Travie McCoy
+2011 24
+Young & Beautiful
+Lana Del Rey
+2013 22
+LUV
+Tory Lanez
+2016 19
+Boom Clap
+Charli XCX
+2014 8
+Glad You Exist
+Dan & Shay
+2021 48
+Tunnel Vision
+Kodak Black
+2017 6
+The Git Up
+Blanco Brown
+2019 14
+Starships
+Nicki Minaj
+2012 5
+What Do You Want From Me?
+Adam Lambert
+2010 10
+The Greatest
+Sia & Kendrick Lamar
+2016 18
+When The Party's Over
+Billie Eilish
+2019 29
+Finesse
+Bruno Mars & Cardi B
+2018 3
+Hell Of A View
+Eric Church
+2021 28
+Middle Child
+J Cole
+2019 4
+IDGAF
+Dua Lipa
+2018 49
+Treasure
+Bruno Mars
+2013 5
+Close To Me
+Ellie Goulding, Diplo & Swae Lee
+2019 24
+Let It Go
+Idina Menzel
+2014 5
+Sexy Chick (Sexy Bitch)
+David Guetta & Akon
+2010 5
+Lose You To Love Me
+Selena Gomez
+2020 5
+A Lot
+21 Savage
+2019 12
+Con Calma
+Daddy Yankee & Snow
+2019 48
+The Time (Dirty Bit)
+The Black Eyed Peas
+2011 7
+Fireflies
+Owl City
+2010 4
+Ghost
+Ella Henderson
+2014 52
+So Good
+BoB
+2012 11
+Wide Awake
+Katy Perry
+2012 2
+Treat You Better
+Shawn Mendes
+2016 6
+Dance Monkey
+Tones & I
+2019 9
+Last Friday Night (TGIF)
+Katy Perry
+2011 1
+Astronaut In The Ocean
+Masked Wolf
+2021 6
+Eastside
+Benny Blanco, Halsey & Khalid
+2018 16
+Just The Way You Are (Amazing)
+Bruno Mars
+2010 1
+Nothin' On You
+BoB & Bruno Mars
+2010 1
+Pumped Up Kicks
+Foster the People
+2011 3
+Wolves
+Selena Gomez & Marshmello
+2018 21
+Up
+Cardi B
+2021 1
+Stereo Love
+Edward Maya
+2010 19
+Meant To Be
+Bebe Rexha & Florida Georgia Line
+2018 2
+Sexy And I Know It
+LMFAO
+2011 2
+Goosebumps
+Travis Scott & HVME
+2021 47
+Kiss Me More
+Doja Cat & SZA
+2021 4
+Take Your Time
+Sam Hunt
+2015 20
+Good Time
+Niko Moon
+2021 20
+Nevermind
+Dennis Lloyd
+2018 86
+Now Or Never
+Halsey
+2017 17
+Kings & Queens
+Ava Max
+2020 13
+No Guidance
+Chris Brown & Drake
+2019 5
+Falling
+Trevor Daniel
+2020 17
+Bad Romance
+Lady GaGa
+2010 2
+Counting Stars
+OneRepublic
+2013 3
+Chained To The Rhythm
+Katy Perry & Skip Marley
+2017 4
+The 'A' Team
+Ed Sheeran
+2012 17
+Uma Thurman
+Fall Out Boy
+2015 22
+Time Today
+Moneybagg Yo
+2021 31
+Psycho
+Post Malone & Ty Dolla $ign
+2018 1
+I Don't Wanna Live Forever (Fifty Shades Darker)
+Zayn & Taylor Swift
+2017 2
+Go Crazy
+Chris Brown & Young Thug
+2020 9
+Rockstar
+Post Malone & 21 Savage
+2017 1
+Better Now
+Post Malone
+2018 3
+High Fashion
+Roddy Ricch & Mustard
+2020 20
+Adventure Of A Lifetime
+Coldplay
+2016 13
+Thunder
+Imagine Dragons
+2017 4
+Animal
+Neon Trees
+2010 13
+Talk Dirty
+Jason Derulo & 2 Chainz
+2014 3
+Boys 'Round Here
+Blake Shelton & Pistol Annies
+2013 12
+Let Me Love You (Until You Learn To Love Yourself)
+Ne0Yo
+2012 6
+Take Me To Church
+Hozier
+2014 2
+Let's Go
+Calvin Harris & Ne0Yo
+2012 17
+Going Bad
+Meek Mill & Drake
+2019 10
+Wrecking Ball
+Miley Cyrus
+2014 8
+Close
+Nick Jonas & Tove Lo
+2016 14
+Stitches
+Shawn Mendes
+2015 4
+Elastic Heart
+Sia
+2015 17
+Rude Boy
+Rihanna
+2010 1
+All Of Me
+John Legend
+2014 1
+Middle
+DJ Snake & Bipolar Sunshine
+2016 20
+Godzilla
+Eminem & Juice WRLD
+2020 3
+No Tears Left To Cry
+Ariana Grande
+2018 3
+22
+Taylor Swift
+2013 20
+Love Me Again
+John Newman
+2014 30
+Die Young
+Kesha
+2012 2
+Emotionally Scarred
+Lil Baby
+2020 31
+Daylight
+Maroon 5
+2013 7
+Don't!
+Ed Sheeran
+2014 9
+We Found Love
+Rihanna & Calvin Harris
+2011 1
+One Thing
+One Direction
+2012 39
+Envy Me
+Calboy
+2019 31
+Love Yourself
+Justin Bieber
+2016 1
+Feels
+Calvin Harris, Pharrell Williams, Katy Perry & Big Sean
+2017 20
+The Edge Of Glory
+Lady GaGa
+2011 3
+Good As Hell
+Lizzo
+2020 6
+One Call Away
+Charlie Puth
+2016 12
+Be Careful
+Cardi B
+2018 11
+Stuck With U
+Ariana Grande & Justin Bieber
+2020 1
+Silence
+Marshmello & Khalid
+2017 30
+More Than My Hometown
+Morgan Wallen
+2020 15
+Prisoner
+Miley Cyrus & Dua Lipa
+2021 60
+High Hopes
+Panic! At the Disco
+2019 4
+The Wild Ones
+Flo Rida & Sia
+2012 5
+Senorita
+Shawn Mendes & Camila Cabello
+2019 1
+My Way
+Calvin Harris
+2016 24
+Say Something
+Justin Timberlake & Chris Stapleton
+2018 9
+Hey Look Ma, I Made It
+Panic! At the Disco
+2019 16
+Starving
+Hailee Steinfeld & Grey
+2016 12
+Party Rock Anthem
+LMFAO
+2011 1
+Birthday
+Katy Perry
+2014 17
+Sorry
+Justin Bieber
+2015 2
+She Looks So Perfect
+5 Seconds of Summer
+2014 24
+Wishing Well
+Juice WRLD
+2020 5
+Work
+Rihanna & Drake
+2016 1
+Heaven
+Kane Brown
+2018 15
+Drunk In Love
+Beyonce & Jay0Z
+2014 2
+Royals
+Lorde
+2013 1
+Come & Get It
+Selena Gomez
+2013 6
+Drag Me Down
+One Direction
+2015 3
+Youngblood
+5 Seconds of Summer
+2019 14
+Habits (Stay High)
+Tove Lo & Hippie Sabotage
+2014 3
+Rock That Body
+The Black Eyed Peas
+2010 9
+Galway Girl
+Ed Sheeran
+2017 53
+Location
+Khalid
+2017 16
+La La La
+Naughty Boy & Sam Smith
+2014 19
+Too Close
+Alex Clare
+2012 7
+Dior
+Pop Smoke
+2020 22
+Drip Too Hard
+Lil Baby & Gunna
+2019 8
+You Make Me Feel
+Cobra Starship & Sabi
+2011 7
+There's Nothing Holdin' Me Back
+Shawn Mendes
+2017 6
+On Chill
+Wale & Jeremih
+2019 22
+I Gotta Feeling
+The Black Eyed Peas
+2010 9
+Never Be The Same
+Camila Cabello
+2018 6
+Talking Body
+Tove Lo
+2015 12
+Marvin Gaye
+Charlie Puth & Meghan Trainor
+2015 21
+Lost Boy
+Ruth B
+2016 24
+I Don't Care
+Ed Sheeran & Justin Bieber
+2019 2
+Lips Are Movin
+Meghan Trainor
+2015 4
+Good As Hell
+Lizzo
+2019 3
+Pure Water
+Mustard & Migos
+2019 23
+Payphone
+Maroon 5 & Wiz Khalifa
+2012 2
+Hold My Hand
+Jess Glynne
+2015 86
+Bang Bang
+Jessie J, Nicki Minaj & Ariana Grande
+2015 15
+Thrift Shop
+Macklemore & Ryan Lewis
+2013 1
+Bury A Friend
+Billie Eilish
+2019 14
+Savage Love (Laxed 0 Siren Beat)
+Jawsh 685 & Jason Derulo
+2020 1
+Broccoli
+DRAM & Lil Yachty
+2016 5
+Levels
+Avicii
+2012 60
+Party In The U.S.A.
+Miley Cyrus
+2010 8
+Feel This Moment
+Pitbull & Christina Aguilera
+2013 8
+Who's That Chick?
+David Guetta & Rihanna
+2011 51
+Bangarang
+Skrillex & Sirah
+2012 72
+In The Night
+The Weeknd
+2016 12
+Swervin
+A Boogie Wit Da Hoodie & 6ix9ine
+2019 38
+God Is A Woman
+Ariana Grande
+2018 8
+The Scotts
+The Scotts
+2020 1
+Gangnam Style
+Psy
+2012 2
+Hold It Against Me
+Britney Spears
+2011 1
+Laugh Now Cry Later
+Drake & Lil Durk
+2021 7
+Love Me Like You Do
+Ellie Goulding
+2015 3
+Trumpets
+Jason Derulo
+2014 14
+Loyalty.
+Kendrick Lamar & Rihanna
+2017 14
+We're Good
+Dua Lipa
+2021 31
+Coming Home
+P Diddy & Skylar Grey
+2011 11
+Blah, Blah, Blah
+Kesha & 3OH!3
+2010 7
+Bad At Love
+Halsey
+2018 5
+Beautiful People
+Ed Sheeran & Khalid
+2019 13
+Say So
+Doja Cat & Nicki Minaj
+2020 1
+Empire State Of Mind (Part II) Broken Down
+Alicia Keys
+2010 55
+Tik Tok
+Kesha
+2010 1
+MotorSport
+Migos, Nicki Minaj & Cardi B
+2018 6
+Rockstar
+DaBaby & Roddy Ricch
+2020 1
+Unforgettable
+French Montana & Swae Lee
+2017 3
+Fancy
+Iggy Azalea & Charli XCX
+2014 1
+Someone Like You
+Adele
+2011 1
+For The Night
+Pop Smoke & Lil Baby & DaBaby
+2020 6
+Starboy
+The Weeknd & Daft Punk
+2017 1
+Down To One
+Luke Bryan
+2021 36
+The Middle
+Zedd, Maren Morris & Grey
+2018 5
+Girl On Fire
+Alicia Keys & Nicki Minaj
+2012 11
+The Bones
+Maren Morris
+2020 12
+Breaking Me
+Topic & A7s
+2020 53
+I Wanna Go
+Britney Spears
+2011 7
+Carry Out
+Timbaland & Justin Timberlake
+2010 11
+Baby Shark
+Pinkfong
+2019 32
+Hideaway
+Kiesza
+2014 51
+Party Rock Anthem
+LMFAO
+2012 6
+Show Me
+Kid Ink & Chris Brown
+2014 13
+I Hate U I Love U
+Gnash & Olivia O'Brien
+2016 10
+All I Want For Christmas Is You
+Mariah Carey
+2020 1
+No Money
+Galantis
+2016 88
+We Can't Stop
+Miley Cyrus
+2013 2
+Glorious
+Macklemore & Skylar Grey
+2017 49
+I Like It
+Cardi B, Bad Bunny & J Balvin
+2018 1
+To Dance Again
+Jennifer Lopez & Pitbull
+2012 17
+Mo Bamba
+Sheck Wes
+2018 6
+Sunflower (Spider0Man: Into The Spider0Verse)
+Post Malone & Swae Lee
+2019 1
+Cold
+Maroon 5 & Future
+2017 16
+Never Be Like You
+Flume & Kai
+2016 20
+Suge
+DaBaby
+2019 7
+Little Bad Girl
+David Guetta, Taio Cruz & Ludacris
+2011 70
+Blurred Lines
+Robin Thicke, T.I. & Pharrell Williams
+2014 19
+Young Wild Free
+Snoop Dogg, Wiz Khalifa & Bruno Mars
+2012 7
+I Fall Apart
+Post Malone
+2018 16
+The Man
+Aloe Blacc
+2014 8
+We Are Young
+fun.
+2012 1
+Pop Out
+Polo G & Lil Tjay
+2019 11
+Thunder
+Imagine Dragons
+2018 4
+Lose You To Love Me
+Selena Gomez
+2019 1
+Empire State Of Mind
+Jay0Z & Alicia Keys
+2010 1
+Breathin
+Ariana Grande
+2018 12
+What Lovers Do
+Maroon 5 & SZA
+2017 9
+Blueberry Faygo
+Lil Mosey
+2020 8
+It Girl
+Jason Derulo
+2011 17
+Chandelier
+Sia
+2015 20
+Heathens
+Twenty One Pilots
+2016 2
+Best Thing I Never Had
+Beyonce
+2011 16
+Bad Blood
+Taylor Swift & Kendrick Lamar
+2015 1
+Crazy Girl
+Eli Young Band
+2011 30
+Somebody That I Used To Know
+Gotye & Kimbra
+2012 1
+Just A Kiss
+Lady Antebellum
+2011 7
+I Feel It Coming
+The Weeknd & Daft Punk
+2017 4
+For The Night
+Pop Smoke & Lil Baby & DaBaby
+2021 11
+Dynamite
+Taio Cruz
+2011 11
+Here
+Alessia Cara
+2016 5
+Delicate
+Taylor Swift
+2018 12
+A Sky Full Of Stars
+Coldplay
+2014 10
+Gucci Gang
+Lil Pump
+2017 3
+Wagon Wheels
+Darius Rucker
+2013 15
+I'm Into You
+Jennifer Lopez & Lil' Wayne
+2011 41
+Can't Be Tamed
+Miley Cyrus
+2010 8
+Yeah 3X
+Chris Brown
+2011 15
+Plug Walk
+Rich The Kid
+2018 13
+For The First Time
+The Script
+2011 23
+New Rules
+Dua Lipa
+2017 14
+If The World Was Ending
+JP Saxe & Julia Michaels
+2020 27
+Applause
+Lady GaGa
+2013 4
+Arcade
+Duncan Laurence
+2021 61
+Ride
+Twenty One Pilots
+2016 5
+Take Me To Church
+Hozier
+2015 2
+Exchange
+Bryson Tiller
+2016 26
+S&M
+Rihanna
+2011 2
+Circles
+Post Malone
+2020 1
+Eenie Meenie
+Sean Kingston & Justin Bieber
+2010 15
+She Doesn't Mind
+Sean Paul
+2012 78
+Judas
+Lady GaGa
+2011 10
+Thank U, Next
+Ariana Grande
+2018 1
+Locked Out Of Heaven
+Bruno Mars
+2012 1
+Animals
+Maroon 5
+2015 8
+Beauty & A Beat
+Justin Bieber & Nicki Minaj
+2013 5
+Don't Wanna Go Home
+Jason Derulo
+2011 14
+Rude
+Magic!
+2014 1
+Locked Out Of Heaven
+Bruno Mars
+2013 1
+Can't Remember To Forget You
+Shakira & Rihanna
+2014 15
+Sorry
+Justin Bieber
+2016 1
+Dirt Road Anthem
+Jason Aldean & Ludacris
+2011 7
+Blow
+Kesha
+2011 7
+Pompeii
+Bastille
+2013 24
+Savage
+Megan Thee Stallion
+2020 6
+Telepatia
+Kali Uchis
+2021 25
+Hold On, We're Going Home
+Drake & Majid Jordan
+2014 11
+Lay Me Down
+Sam Smith
+2015 8
+Sicko Mode
+Travis Scott
+2018 1
+Scars To Your Beautiful
+Alessia Cara
+2017 8
+Breakeven
+The Script
+2010 12
+Afterglow
+Ed Sheeran
+2021 29
+Cheerleader
+OMI
+2015 1
+I Won't Give Up
+Jason Mraz
+2012 8
+What Do You Mean?
+Justin Bieber
+2016 4
+Zeze
+Kodak Black, Travis Scott & Offset
+2018 2
+Just Give Me A Reason
+Pink & Nate Ruess
+2013 1
+Heart Skips A Beat
+Olly Murs & Rizzle Kicks
+2012 96
+We Don't Talk Anymore
+Charlie Puth & Selena Gomez
+2016 9
+Happier
+Marshmello & Bastille
+2018 3
+Blank Space
+Taylor Swift
+2015 1
+Radioactive
+Imagine Dragons
+2013 3
+Ass Back Home
+Gym Class Heroes & Neon Hitch
+2012 12
+Rain Over Me
+Pitbull & Marc Anthony
+2011 30
+Savage Love (Laxed 0 Siren Beat)
+Jawsh 685 & Jason Derulo
+2021 31
+The Hanging Tree
+James Newton Howard & Jennifer Lawrence
+2015 13
+Good 4 U
+Olivia Rodrigo
+2021 1
+That's What I Like
+Bruno Mars
+2017 1
+Set Fire To The Rain
+Adele
+2012 1
+We Found Love
+Rihanna & Calvin Harris
+2012 1
+Mood Swings
+Pop Smoke & Lil Tjay
+2020 17
+Cry Baby
+Megan Thee Stallion & DaBaby
+2021 28
+FourFiveSeconds
+Rihanna, Kanye West & Paul McCartney
+2015 4
+Ridin' Solo
+Jason Derulo
+2010 9
+Cheap Thrills
+Sia
+2016 1
+What You Know Bout Love
+Pop Smoke
+2020 25
+Diamonds
+Rihanna
+2013 2
+Wants and Needs
+Drake & Lil Baby
+2021 2
+Dna.
+Kendrick Lamar
+2017 4
+Skyfall
+Adele
+2013 33
+Video Games
+Lana Del Rey
+2012 91
+Sunday Best
+Surfaces
+2020 19
+Everybody Talks
+Neon Trees
+2012 6
+I Spy
+Kyle & Lil Yachty
+2017 4
+Scared To Be Lonely
+Martin Garrix & Dua Lipa
+2017 76
+On Me
+Lil Baby
+2021 15
+Good Feeling
+Flo Rida
+2011 4
+SOS
+Avicii & Aloe Blacc
+2019 68
+Heartbreak Anniversary
+Giveon
+2021 16
+Where Have You Been?
+Rihanna
+2012 5
+No Limit
+G0Eazy, ASAP Rocky & Cardi B
+2018 4
+6 Foot 7 Foot
+Lil' Wayne & Corey Gunz
+2011 9
+Hall Of Fame
+The Script & will.i.am
+2013 25
+This Girl
+Kungs & Cookin' On 3 Burners
+2016 26
+My First Kiss
+3OH!3 & Kesha
+2010 9
+Faded
+Alan Walker
+2016 80
+2 Phones
+Kevin Gates
+2016 17
+Motivation
+Kelly Rowland & Lil' Wayne
+2011 17
+Only Girl (In The World)
+Rihanna
+2011 7
+50 Ways To Say Goodbye
+Train
+2012 20
+Baby
+Justin Bieber & Ludacris
+2010 5
+Still Into You
+Paramore
+2013 24
+Down On Me
+Jeremih & 50 Cent
+2011 4
+Whoopty
+CJ
+2021 10
+I Don't F**k With You
+Big Sean & E040
+2015 12
+Beautiful People
+Chris Brown & Benny Benassi
+2011 43
+One More Night
+Maroon 5
+2012 1
+Royals
+Lorde
+2014 4
+Waves
+Mr Probz
+2014 14
+Let Her Go
+Passenger
+2013 9
+Sweet But Psycho
+Ava Max
+2019 10
+Shape Of You
+Ed Sheeran
+2018 13
+Save Your Tears
+The Weeknd & Ariana Grande
+2021 1
+Wrecking Ball
+Miley Cyrus
+2013 1
+Without Me
+Halsey
+2018 2
+Chasin' You
+Morgan Wallen
+2020 16
+Happier
+Marshmello & Bastille
+2019 2
+Just The Way
+Parmalee & Blanco Brown
+2021 31
+Unsteady
+X Ambassadors
+2016 20
+Let Me Love You
+DJ Snake & Justin Bieber
+2016 4
+Jealous
+Nick Jonas
+2015 7
+Hall Of Fame
+The Script & will.i.am
+2012 36
+I Don't Like It, I Love It
+Flo Rida, Robin Thicke & Verdine White
+2015 43
+Cool For The Summer
+Demi Lovato
+2015 11
+Home
+Phil Phillips
+2013 6
+Springsteen
+Eric Church
+2012 19
+I'm Not The Only One
+Sam Smith
+2015 5
+Dynamite
+BTS
+2021 5
+Long Live
+Florida Georgia Line
+2021 45
+Hello
+Martin Solveig
+2011 46
+Started From The Bottom
+Drake
+2013 6
+Ho Hey
+The Lumineers
+2013 3
+Set Fire To The Rain
+Adele
+2011 13
+How Long
+Charlie Puth
+2018 21
+Broken hearted
+Karmin
+2012 16
+What The Hell
+Avril Lavigne
+2011 11
+I Hope
+Gabby Barrett & Charlie Puth
+2020 3
+Best Day Of My Life
+American Authors
+2014 11
+Hymn For The Weekend
+Coldplay
+2016 25
+Needed Me
+Rihanna
+2016 7
+Don't You Worry Child
+Swedish House Mafia & John Martin
+2012 12
+Speechless
+Dan & Shay
+2019 24
+Someone You Loved
+Lewis Capaldi
+2019 1
+Haven't Met You Yet
+Michael Buble
+2010 24
+Sorry Not Sorry
+Demi Lovato
+2017 6
+Closer
+The Chainsmokers & Halsey
+2016 1
+Berzerk
+Eminem
+2013 3
+Bottoms Up
+Trey Songz & Nicki Minaj
+2010 6
+Holy
+Justin Bieber & Chance The Rapper
+2020 3
+Fuckin' Problems
+ASAP Rocky, Drake & 2 Chainz
+2013 8
+Dangerous
+David Guetta & Sam Martin
+2015 60
+Only Girl (In The World)
+Rihanna
+2010 1
+Moves Like Jagger
+Maroon 5 & Christina Aguilera
+2011 1
+Anyone
+Justin Bieber
+2021 6
+Mia
+Bad Bunny & Drake
+2019 19
+Little Talks
+Of Monsters & Men
+2012 31
+Roxanne
+Arizona Zervas
+2019 4
+Thinking Out Loud
+Ed Sheeran
+2014 6
+Let Her Go
+Passenger
+2014 5
+Without You
+David Guetta & Usher
+2012 8
+Jar Of Hearts
+Christina Perri
+2011 17
+Wasted On You
+Morgan Wallen
+2021 9
+Scream & Shout
+will.i.am & Britney Spears
+2013 3
+Side To Side
+Ariana Grande & Nicki Minaj
+2017 5
+Latch
+Disclosure & Sam Smith
+2014 7
+Passionfruit
+Drake
+2017 8
+I Need A Doctor
+Dr Dre, Eminem & Skylar Grey
+2011 4
+Photograph
+Ed Sheeran
+2015 10
+In My Feelings
+Drake
+2018 1
+Girl Like Me
+Black Eyed Peas & Shakira
+2021 67
+F**kin' Perfect
+Pink
+2011 2
+This Is America
+Childish Gambino
+2018 1
+Animals
+Maroon 5
+2014 3
+Put Your Records On
+Ritt Momney
+2021 30
+WHATS POPPIN
+Jack Harlow & DaBaby, Tory Lanez & Lil Wayne
+2020 2
+Counting Stars
+OneRepublic
+2014 2
+Love Runs Out
+OneRepublic
+2014 15
+I Want You To Know
+Zedd & Selena Gomez
+2015 17
+Forever After All
+Luke Combs
+2021 12
+Mercy
+Kanye West, Big Sean, Pusha T & 2 Chainz
+2012 13
+Old Town Road
+Lil Nas X & Billy Ray Cyrus
+2019 1
+Shut Up & Dance
+Walk the Moon
+2015 4
+Ballin'
+Mustard & Roddy Ricch
+2020 11
+On My Mind
+Ellie Goulding
+2015 13
+Hey Baby (Drop It To The Floor)
+Pitbull & T0Pain
+2011 7
+I Hope
+Gabby Barrett
+2020 16
+I Hope
+Gabby Barrett & Charlie Puth
+2021 8
+Downtown
+Macklemore & Ryan Lewis
+2015 12
+Lemonade
+Internet Money & Gunna & Don Toliver & NAV
+2020 6
+Back In Blood
+Pooh Shiesty & Lil Durk
+2021 13
+The Hills
+The Weeknd
+2016 6
+If I Can't Have You
+Shawn Mendes
+2019 2
+All The Right Moves
+OneRepublic
+2010 18
+If I Had You
+Adam Lambert
+2010 30
+Natural
+Imagine Dragons
+2018 13
+My Oh My
+Camila Cabello & DaBaby
+2020 12
+Can't Feel My Face
+The Weeknd
+2015 1
+High Hopes
+Panic! At the Disco
+2018 5
+Same Old Love
+Selena Gomez
+2016 5
+Too Good At Goodbyes
+Sam Smith
+2017 4
+oui
+Jeremih
+2016 19
+Cake By The Ocean
+DNCE
+2016 9
+Senorita
+Shawn Mendes & Camila Cabello
+2020 11
+Me!
+Taylor Swift & Brendon Urie
+2019 2
+Somebody To Love
+Justin Bieber
+2010 15
+Love Somebody
+Maroon 5
+2013 10
+Love Me Again
+John Newman
+2013 71
+Wake Me Up
+Avicii
+2014 7
+Do You Remember?
+Jay Sean, Sean Paul & Lil' Jon
+2010 10
+Congratulations
+Post Malone & Quavo
+2017 8
+In Case You Didn't Know
+Brett Young
+2017 19
+Ballin'
+Mustard & Roddy Ricch
+2019 14
+Hold On
+Justin Bieber
+2021 20
+Swang
+Rae Sremmurd
+2017 26
+Russian Roulette
+Rihanna
+2010 43
+Girls Like You
+Maroon 5 & Cardi B
+2018 1
+Nonstop
+Drake
+2018 2
+Black Widow
+Iggy Azalea & Rita Ora
+2014 3
+Rain On Me
+Lady Gaga & Ariana Grande
+2020 1
+Good Days
+SZA
+2021 9
+No Promises
+Cheat Codes & Demi Lovato
+2017 38
+Zeze
+Kodak Black, Travis Scott & Offset
+2019 8
+This Is How We Do
+Katy Perry
+2014 24
+Blame
+Calvin Harris & John Newman
+2014 19
+Try Sleeping With A Broken Heart
+Alicia Keys
+2010 27
+Meet Me Half Way
+The Black Eyed Peas
+2010 8
+Not A Bad Thing
+Justin Timberlake
+2014 8
+In Your Eyes
+The Weeknd
+2020 16
+679
+Fetty Wap & Remy Boyz
+2016 11
+Rockabye
+Clean Bandit, Sean Paul & Anne0Marie
+2017 9
+Roll Up
+Wiz Khalifa
+2011 13
+Solo
+Clean Bandit & Demi Lovato
+2018 58
+One Too Many
+Keith Urban Duet & P!nk
+2021 63
+Hey Mama
+David Guetta, Nicki Minaj & Afrojack
+2015 8
+Death Bed
+Powfu & beabadoobee
+2020 23
+Lonely
+Justin Bieber & Benny Blanco
+2021 12
+Young Forever
+Jay0Z & Mr Hudson
+2010 10
+One Man Band
+Old Dominion
+2019 20
+Mi gente
+J Balvin & Willy William
+2017 23
+Here
+Alessia Cara
+2015 8
+11-Jul
+Beyonce
+2015 18
+Big Bank
+YG, 2 Chainz, Big Sean & Nicki Minaj
+2018 16
+Moment 4 Life
+Nicki Minaj
+2011 13
+Chantaje
+Shakira & Maluma
+2017 51
+I Hope You're Happy Now
+Carly Pearce & Lee Brice
+2020 27
+Niggas in Paris
+Jay0Z & Kanye West
+2012 5
+What Do You Mean?
+Justin Bieber
+2015 1
+No Guidance
+Chris Brown & Drake
+2020 15
+Roses (Imanbek Remix)
+SAINt JHN
+2020 55
+Call On Me
+Starley
+2017 65
+Sum 2 Prove
+Lil Baby
+2020 16
+Memories
+Maroon 5
+2019 4
+Burn It Down
+Linkin Park
+2012 30
+I Love It
+Kanye West & Lil Pump
+2018 6
+Look Back At It
+A Boogie Wit Da Hoodie
+2019 27
+Call Me Maybe
+Carly Rae Jepsen
+2013 27
+We Own It (Fast & Furious 6)
+2 Chainz & Wiz Khalifa
+2013 16
+Holy Grail
+Jay0Z & Justin Timberlake
+2013 4
+All I Want For Christmas Is You
+Mariah Carey
+2019 1
+Hotline Bling
+Drake
+2016 3
+10,000 Hours
+Dan & Shay & Justin Bieber
+2019 4
+Hello
+Adele
+2015 1
+Taste
+Tyga & Offset
+2018 8
+Stay With Me
+Sam Smith
+2015 11
+Let It Go
+James Bay
+2016 16
+Black Beatles
+Rae Sremmurd & Gucci Mane
+2017 1
+Supalonely
+Benee & Gus Dapperton
+2020 39
+Break My Heart
+Dua Lipa
+2020 13
+I Don't Wanna Know
+Maroon 5 & Kendrick Lamar
+2016 7
+BOP
+DaBaby
+2019 11
+H.O.L.Y.
+Florida Georgia Line
+2016 14
+Fake Love
+Drake
+2017 8
+Calling My Phone
+Lil Tjay & 6LACK
+2021 3
+E.T.
+Katy Perry & Kanye West
+2011 1
+Closer
+The Chainsmokers & Halsey
+2017 3
+It Will Rain
+Bruno Mars
+2012 3
+Without You
+David Guetta & Usher
+2011 4
+Princess Of China
+Coldplay & Rihanna
+2012 54
+Stereo Hearts
+Gym Class Heroes
+2011 4
+Money In The Grave
+Drake & Rick Ross
+2019 7
+Don't Mind
+Kent Jones
+2016 8
+New Rules
+Dua Lipa
+2018 6
+Grenade
+Bruno Mars
+2011 1
+It Will Rain
+Bruno Mars
+2011 3
+BedRock
+Young Money & Lloyd
+2010 2
+Ain't Your Mama
+Jennifer Lopez
+2016 76
+Almost Maybes
+Jordan Davis
+2021 43
+Turn Me On
+David Guetta & Nicki Minaj
+2012 4
+Centuries
+Fall Out Boy
+2015 10
+Beautiful
+Bazzi & Camila Cabello
+2018 30
+You Should Be Sad
+Halsey
+2020 26
+Too Good
+Rihanna & Drake
+2016 14
+Look What You Made Me Do
+Taylor Swift
+2017 1
+Firestone
+Kygo & Conrad
+2015 92
+Domino
+Jessie J
+2012 6
+Woah
+Lil Baby
+2020 15
+Something Just Like This
+The Chainsmokers & Coldplay
+2017 3
+One Thing Right
+Marshmello & Kane Brown
+2019 36
+Taki Taki
+DJ Snake, Selena Gomez, Ozuna & Cardi B
+2018 11
+Suit & Tie
+Justin Timberlake & Jay0Z
+2013 3
+Mi gente
+J Balvin & Willy William & Beyonce
+2017 3
+Havana
+Camila Cabello & Young Thug
+2018 1
+Greece
+DJ Khaled & Drake
+2020 8
+Hold On, We're Going Home
+Drake & Majid Jordan
+2013 4
+You Know You Like It
+DJ Snake & AlunaGeorge
+2015 13
+Blow Me (One Last Kiss)
+Pink
+2012 5
+Roses
+The Chainsmokers & Rozes
+2016 6
+Back In Time
+Pitbull
+2012 11
+Amnesia
+5 Seconds of Summer
+2014 16
+The Good Ones
+Gabby Barrett
+2021 19
+Despacito
+Luis Fonsi & Daddy Yankee
+2017 1
+Be Alright
+Dean Lewis
+2018 63
+Pound The Alarm
+Nicki Minaj
+2012 15
+Better Together
+Luke Combs
+2021 15
+Stay With Me
+Sam Smith
+2014 2
+I Don't Wanna Know
+Maroon 5 & Kendrick Lamar
+2017 6
+Getting Over You
+David Guetta & Chris Willis
+2010 31
+Hands To Myself
+Selena Gomez
+2016 7
+Beer Never Broke My Heart
+Luke Combs
+2019 21
+Sexy And I Know It
+LMFAO
+2012 1
+Style
+Taylor Swift
+2015 6
+Titanium
+David Guetta & Sia
+2011 66
+Team
+Lorde
+2014 6
+God's Plan
+Drake
+2018 1
+Paradise
+Coldplay
+2012 20
+Sad!
+XXXTentacion
+2018 1
+Story Of My Life
+One Direction
+2014 9
+Bang!
+AJR
+2021 8
+True Love
+Pink & Lily Allen
+2013 53
+Paris
+The Chainsmokers
+2017 6
+Titanium
+David Guetta & Sia
+2012 7
+Little Talks
+Of Monsters & Men
+2013 20
+Heathens
+Twenty One Pilots
+2017 12
+No
+Meghan Trainor
+2016 3
+Believer
+Imagine Dragons
+2017 4
+Stronger (What Doesn't Kill You)
+Kelly Clarkson
+2012 1
+I Like It
+Enrique Iglesias & Pitbull
+2010 4
+1-800-273-8255
+Logic, Alessia Cara & Khalid
+2017 3
+Girl On Fire
+Alicia Keys & Nicki Minaj
+2013 12
+Not Afraid
+Eminem
+2010 1
+Physical
+Dua Lipa
+2020 60
+Watch Me
+Silento
+2015 3
+Imma Be
+The Black Eyed Peas
+2010 1
+Sugar
+Robin Schulz & Francesco Yates
+2016 44
+Bandit
+Juice WRLD & Youngboy Never Broke Again
+2019 10
+DJ Got Us Fallin' In Love
+Usher & Pitbull
+2010 4
+How To Love
+Lil Wayne
+2011 5
+Hey, Brother
+Avicii
+2014 16
+Call Me Maybe
+Carly Rae Jepsen
+2012 1
+The Sound Of Silence
+Disturbed
+2016 42
+Bad Things
+Machine Gun Kelly & Camila Cabello
+2017 4
+We Are Never Ever Getting Back Together
+Taylor Swift
+2012 1
+Roar
+Katy Perry
+2014 8
+Sweet Nothing
+Calvin Harris & Florence Welch
+2013 10
+Headlines
+Drake
+2011 13
+Got What I Got
+Jason Aldean
+2020 16
+Roar
+Katy Perry
+2013 1
+Graveyard
+Halsey
+2019 34
+Attention
+Charlie Puth
+2017 5
+What About Us
+Pink
+2017 13
+Heartbeat Song
+Kelly Clarkson
+2015 21
+Bad
+Wale & Tiara Thomas
+2013 21
+My Way
+Fetty Wap & Monty
+2015 7
+Alejandro
+Lady GaGa
+2010 5
+Pop Style
+Drake & The Throne
+2016 16
+Love The Way You Lie
+Rihanna & Eminem
+2010 1
+Side To Side
+Ariana Grande & Nicki Minaj
+2016 4
+Young Dumb & Broke
+Khalid
+2017 22
+T0Shirt
+Migos
+2017 19
+River
+Eminem & Ed Sheeran
+2018 32
+I Love It
+Icona Pop & Charli XCX
+2013 7
+Castle On The Hill
+Ed Sheeran
+2017 6
+What You Know Bout Love
+Pop Smoke
+2021 9
+Rolling In The Deep
+Adele
+2012 5
+Trip
+Ella Mai
+2018 11
+Mirrors
+Justin Timberlake
+2013 2
+Truth Hurts
+Lizzo
+2019 1
+Without Me
+Halsey
+2019 1
+Circles
+Post Malone
+2019 1
+Chandelier
+Sia
+2014 8
+Body Like A Back Road
+Sam Hunt
+2017 6
+Promises
+Calvin Harris & Sam Smith
+2018 65
+Life Is Good
+Future & Drake
+2020 2
+Love More
+Chris Brown
+2013 23
+Super Bass
+Nicki Minaj
+2011 3
+Yummy
+Justin Bieber
+2020 2

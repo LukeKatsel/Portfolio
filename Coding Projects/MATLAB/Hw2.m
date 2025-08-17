@@ -1,0 +1,2 @@
+double A;
+double B;
