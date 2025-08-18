@@ -29,7 +29,9 @@ Welcome to my GitHub portfolio - a central hub for my projects in:
 - C Programming 1
 - C Programming 2
 - C Programming 3
-   - USLOSS / THREADS
+   - [USLOSS](./Coding%20Projects/C/C%20Programming%203/USLOSS)
+   - [THREADS](./Coding%20Projects/C/C%20Programming%203/THREADS)
+
 
 **Assembly**
 - x86 Assembly programming 1
